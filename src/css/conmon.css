@@ -1,0 +1,52 @@
+{word-wrap:break-word}
+html,body,h1,h2,h3,h4,h5,h6,hr,p,iframe,dl,dt,dd,ul,ol,li,pre,form,button,input,textarea,th,td,fieldset{margin:0;padding:0}
+ul,ol,dl{list-style-type:none}
+html,body{*position:static;}
+html{font-family: sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+address,caption,cite,code,dfn,em,th,var{font-style:normal;font-weight:normal}
+input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit}
+input,button{overflow: visible;vertical-align:middle;outline:none;}
+body,th,td,button,input,select,textarea{font-family:"Microsoft Yahei","Hiragino Sans GB","Helvetica Neue",Helvetica,tahoma,arial,Verdana,sans-serif,"WenQuanYi Micro Hei","\5B8B\4F53";font-size:14px;-webkit-font-smoothing:antialiased;-moz-font-smoothing:antialiased}
+body{line-height:1.6;}
+h1,h2,h3,h4,h5,h6{font-size:100%}
+a,area{outline:none;blr:expression(this.onFocus=this.blur())}
+a{text-decoration:none;cursor: pointer;}
+a:hover{outline:none}
+a.ie6:hover{zoom:1}
+a:focus{outline:none}
+a:hover,a:active{outline:none}:focus{outline:none}
+sub,sup{vertical-align:baseline}
+/*img*/
+img{border:0;vertical-align:middle}
+a img,img{-ms-interpolation-mode:bicubic}
+.img-responsive{max-width: 100%;height: auto;}
+.clearfix:after,.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}.cl,.clearfix{zoom:1;}
+.w-1200{width:1200px;margin:0 auto;}
+.w-960{width:960px;margin:0 auto;}
+.mt-20{margin-top:40px!important;}
+*{user-select: none;box-sizing: border-box;color:#333;font-size:12px;}
+.trig1:after{
+	content:"";
+	width:0;
+	height:0;
+	border:5px solid transparent;
+	border-top-color: #ccc;
+	margin:5px 0 0 3px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.trig1:hover:after{
+	border-top-color:transparent;
+	border-bottom-color: #ccc;
+	margin:-5px 0 0 3px;
+}
+img{
+		display: inline-block;
+	}
+
+
+
+
+
+
+/* 首页头部 */
